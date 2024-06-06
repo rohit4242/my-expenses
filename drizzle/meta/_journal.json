@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1716290164797,
+      "tag": "0000_cold_spiral",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1716291040125,
+      "tag": "0001_naive_tigra",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1716411134249,
+      "tag": "0002_flashy_luke_cage",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1716464882299,
+      "tag": "0003_shallow_namor",
+      "breakpoints": true
+    }
+  ]
+}
